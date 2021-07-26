@@ -1,5 +1,3 @@
-### Hola, I'm Yoyi Ojeda! 👋
-
 <!--
 **yoryi/yoryi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-#### Overview
-
 <img src = "https://github-readme-stats.vercel.app/api?username=yoryi&&show_icons=true&theme=radical">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoryi&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
