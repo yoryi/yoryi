@@ -1,4 +1,4 @@
-### Hola, I'm Pratap Sharma! 👋
+### Hola, I'm Yoryi Ojeda! 👋
 
 - 🌱 I’m currently learning AWS Architect.
 - 👯 I’m looking to collaborate on a project.
