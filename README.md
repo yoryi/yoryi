@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning AWS Architect.
 - 👯 I’m looking to collaborate on a project.
 - 💬 Ask me about React, React-Native, JavaScript, Node.js, Next.js or any tech related stuff.
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend over 8 hours writing code everyday.
 
 <!--
