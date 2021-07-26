@@ -1,3 +1,11 @@
+### Hola, I'm Pratap Sharma! 👋
+
+- 🌱 I’m currently learning AWS Architect.
+- 👯 I’m looking to collaborate on a project.
+- 💬 Ask me about React, React-Native, JavaScript, Node.js, Next.js or any tech related stuff.
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I spend over 8 hours writing code everyday.
+
 <!--
 **yoryi/yoryi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,4 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src = "https://github-readme-stats.vercel.app/api?username=yoryi&&show_icons=true&theme=radical">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoryi&layout=compact&theme=merko)]
