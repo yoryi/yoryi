@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning AWS Architect.
 - 👯 I’m looking to collaborate on a project.
-- 💬 Ask me about JS/TS React, React-Native, Node.js, Next.js or any tech related stuff.
+- 💬 Ask me about JS/TS, React, React-Native, Node.js, Next.js or any tech related stuff.
 - ⚡ Fun fact: I spend over 8 hours writing code everyday.
 
 <!--
