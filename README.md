@@ -1,9 +1,9 @@
 ### Welcome to my Github profile 👋
 
-- 🌱 I’m currently learning AWS Architect.
-- 👯 I’m looking to collaborate on a project.
-- 💬 Ask me about JS/TS, React, Python/Django, Node.js, Next.js or any tech related stuff.
-- ⚡ Fun fact: I spend over 8 hours writing code everyday.
+- 🌱 Soy Desarrollador Movil y Web
+- 👯 2 años de experiencia
+- 💬 Puedes enviarme un correo: yoryiojeda@outlook.com
+- ⚡ Dato curioso: puedo pasar más de 8 horas codificando.
 
 <!--
 **yoryi/yoryi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
