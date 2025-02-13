@@ -1,7 +1,7 @@
 ### Bienvenido a mi perfil de Github 👋
 
 - 🌱 Desarrollador Movil y Web
-- 👯 Mas de 2 años de experiencia
+- 👯 Mas de 3 años de experiencia
 - 💬 Puedes enviarme un correo: yoryiojeda@outlook.com
 - ⚡ Dato curioso: puedo pasar más de 8 horas codificando.
 
